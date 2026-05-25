@@ -1,0 +1,9 @@
+// Import page-specific CSS files here.
+@import "home";
+
+body{
+    background-image:url('https://images.pexels.com/photos/10248486/pexels-photo-10248486.jpeg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
